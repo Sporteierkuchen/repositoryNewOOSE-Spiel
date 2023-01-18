@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.fh_zwickau.oose.zuul04.RoomTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2022-12-24T18:11:54" hostname="SWAG-LAPTOP" time="0.045">
+  <properties/>
+  <testcase name="Test für NULL in einen Raum legen" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="SetChestInRoom()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="GetSchalterInRoomTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="leverAvailableInRoomTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.0"/>
+  <testcase name="GetNoSchalterInRoomTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="GetWrongItemFromRoomTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="SetLeverInRoom()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="getExitnachNordenTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.002"/>
+  <testcase name="getExitnachSüdenTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.0"/>
+  <testcase name="NoLeverAvailableInRoom()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="leverPushedAvailableInRoom()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="GetNoItemInRoomTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="SetNullChestInRoom()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="Test für ein Item in einen Raum legen" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="GetChestInRoomTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="SetNullLeverInRoom()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.002"/>
+  <testcase name="GetItemFromRoomTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="GetItemInRoomTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="KonstrukturTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="Test für die Ausgabe der erweiterten Raumbeschreibung" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="Item aus Raum entfernen" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <testcase name="GetNoChestInRoomTest()" classname="de.fh_zwickau.oose.zuul04.RoomTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.fh_zwickau.oose.zuul04.PLayerInventoryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-12-24T18:11:54" hostname="SWAG-LAPTOP" time="0.014">
+  <properties/>
+  <testcase name="Test für NULL dem Inventar hinzufügen" classname="de.fh_zwickau.oose.zuul04.PLayerInventoryTest" time="0.0"/>
+  <testcase name="Prüft ob das gewünschte Item aus dem Inventar zurückgegeben wird, wenn mehere Items im Inventar sind" classname="de.fh_zwickau.oose.zuul04.PLayerInventoryTest" time="0.002"/>
+  <testcase name="Test für Items aus dem Inventar entfernen" classname="de.fh_zwickau.oose.zuul04.PLayerInventoryTest" time="0.002"/>
+  <testcase name="Test für Item aus dem Inventar benutzen" classname="de.fh_zwickau.oose.zuul04.PLayerInventoryTest" time="0.001"/>
+  <testcase name="Test für falsches Item aus dem Inventar benutzen" classname="de.fh_zwickau.oose.zuul04.PLayerInventoryTest" time="0.0"/>
+  <testcase name="Test für Items die im Inventar vorhanden sind" classname="de.fh_zwickau.oose.zuul04.PLayerInventoryTest" time="0.002"/>
+  <testcase name="Testet die contains-Methode mit mehreren Items im Inventar" classname="de.fh_zwickau.oose.zuul04.PLayerInventoryTest" time="0.001"/>
+  <testcase name="Test für Items dem Inventar hinzufügen" classname="de.fh_zwickau.oose.zuul04.PLayerInventoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

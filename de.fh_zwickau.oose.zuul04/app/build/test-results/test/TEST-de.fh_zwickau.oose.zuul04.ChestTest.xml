@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.fh_zwickau.oose.zuul04.ChestTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-12-24T18:11:54" hostname="SWAG-LAPTOP" time="0.059">
+  <properties/>
+  <testcase name="Test für Kiste mit Items" classname="de.fh_zwickau.oose.zuul04.ChestTest" time="0.035"/>
+  <testcase name="Test für Items aus der geschlossenen Kiste nehmen" classname="de.fh_zwickau.oose.zuul04.ChestTest" time="0.004"/>
+  <testcase name="Test für null als Item in Kiste" classname="de.fh_zwickau.oose.zuul04.ChestTest" time="0.001"/>
+  <testcase name="Test für Öffnen der Kiste" classname="de.fh_zwickau.oose.zuul04.ChestTest" time="0.002"/>
+  <testcase name="Test für Items aus der offenen Kiste nehmen" classname="de.fh_zwickau.oose.zuul04.ChestTest" time="0.002"/>
+  <testcase name="Test für Schließen der Kiste" classname="de.fh_zwickau.oose.zuul04.ChestTest" time="0.002"/>
+  <testcase name="Test für Items aus der offenen leeren Kiste nehmen" classname="de.fh_zwickau.oose.zuul04.ChestTest" time="0.002"/>
+  <testcase name="Test für geöffnete Kiste" classname="de.fh_zwickau.oose.zuul04.ChestTest" time="0.001"/>
+  <testcase name="Test für leere Kiste" classname="de.fh_zwickau.oose.zuul04.ChestTest" time="0.001"/>
+  <system-out><![CDATA[Du musst die Kiste zunächst öffnen!
+Die Kiste in diesem Raum wurde geöffnet!
+Items in dieser Truhe: Keine
+Die Kiste in diesem Raum wurde geöffnet!
+Items in dieser Truhe: Heiltrank1 Heiltrank2
+Die Kiste in diesem Raum wurde geöffnet!
+Items in dieser Truhe: Keine
+Die Kiste in diesem Raum wurde geöffnet!
+Items in dieser Truhe: Keine
+Die Kiste wurde bereits geöffnet!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

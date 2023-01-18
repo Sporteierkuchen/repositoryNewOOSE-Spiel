@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.fh_zwickau.oose.zuul04.PlayerTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-12-24T18:11:54" hostname="SWAG-LAPTOP" time="0.114">
+  <properties/>
+  <testcase name="konstruktorTest()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.005"/>
+  <testcase name="pickUpWrongItemTest()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.006"/>
+  <testcase name="dropWrongItemTest()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.008"/>
+  <testcase name="goBackImStartraum()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.007"/>
+  <testcase name="getItemsFromEmptyChest()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.004"/>
+  <testcase name="dropNoItemTest()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.005"/>
+  <testcase name="goBackMehrmals()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.005"/>
+  <testcase name="goBackZumStartraum()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.004"/>
+  <testcase name="pickUpItemTest()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.008"/>
+  <testcase name="goBackNullSchritte()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.002"/>
+  <testcase name="goBackMehrSchritteAlsMoeglich()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.01"/>
+  <testcase name="goBackZweiSchritte()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.002"/>
+  <testcase name="pickUpNoItemTest()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.002"/>
+  <testcase name="getItemsFromChest()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.003"/>
+  <testcase name="Test für Spieler bewegung" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.002"/>
+  <testcase name="goBackNegativeAnzahlAnSchritten()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.005"/>
+  <testcase name="goBackEinenSchritt()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.002"/>
+  <testcase name="dropItemTest()" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.002"/>
+  <testcase name="Test für Spieler bewegung" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.002"/>
+  <testcase name="Test für Spieler bewegung" classname="de.fh_zwickau.oose.zuul04.PlayerTest" time="0.004"/>
+  <system-out><![CDATA[Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Das Item ist in diesem Raum nicht vorhanden!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Das Item ist nicht in deinem Inventar vorhanden!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum1.
+Ausgänge: norden westen
+
+Du befindest dich im Startraum und kannst nicht weiter zurück gehen!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Die Truhe ist leer!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Dein Inventar ist leer!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Deine Position: Testraum1.
+Ausgänge: norden westen
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum1.
+Ausgänge: norden westen
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Du hast das Item Heiltrank1 aufgenommen!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+
+Du kannst nicht 4 Schritte zurück gehen!
+Du kannst höchstens 3 Schritte zurück gehen!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum2.
+Ausgänge: westen
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+In diesem Raum liegen keine Items herum!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Du hast dir die Items aus der Truhe genommen!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+
+Bitte gebe eine positive Zahl ein!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Heiltrank1 wurde abgelegt!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Da ist keine Tür!
+Deine Position: Testraum2.
+Ausgänge: westen
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+Deine Position: Testraum4.
+Ausgänge: Keine
+Items in diesem Raum: Keine
+Deine Position: Testraum3.
+Ausgänge: süden
+Items in diesem Raum: Keine
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
